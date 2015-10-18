@@ -1,0 +1,8 @@
+package sample;
+
+option java_package = "com.simple";
+option java_outer_classname = "ExampleSimpleInt32";
+
+message SimpleMessage {
+    required int32 id = 999999;
+}

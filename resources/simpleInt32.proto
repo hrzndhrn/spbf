@@ -1,0 +1,5 @@
+package proto;
+
+message PbfInt32 {
+    required int32 id = 1;
+}

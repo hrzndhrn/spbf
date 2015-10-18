@@ -81,4 +81,6 @@ crashlytics.properties
 crashlytics-build.properties
 
 ## activator
-./activator*
+activator
+activator-launch*
+activator.bat
