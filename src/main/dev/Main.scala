@@ -10,7 +10,7 @@ object Main {
     logger.debug("=============================")
     println("### Main -###############################################")
     // EncoderRep.encode("/Users/kruse/Projects/java/jpbf/data/repMsg.pbf")
-    EncoderAllTypes.encode("/Users/kruse/Projects/java/jpbf/data/allTypes.pbf")
+    EncoderAllTypes.encode("resources/allTypes.pbf")
   }
 }
 
